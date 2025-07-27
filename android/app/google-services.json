@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294152602507",
+    "project_id": "payment-app-1a368",
+    "storage_bucket": "payment-app-1a368.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294152602507:android:e417f43f777c6e3328e58e",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIpPKgezktXEjKqXx-TsW6fIAT9z3Sro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
